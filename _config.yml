@@ -13,23 +13,23 @@ baseurl: "notabucket.com"
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Not A Bucket # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Not the usual container of info! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Tech blog, from the prospective of a TechOps Engineer
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "notabucket.com"
 
 github:
-  username: github_username # change to your github username
+  username: CaputoDavide93 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Davide Caputo
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -80,7 +80,7 @@ theme_mode: dark
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://media.licdn.com/dms/image/C4E03AQEvdxqsKgqA-Q/profile-displayphoto-shrink_400_400/0/1652980587150?e=1688601600&v=beta&t=ZTOY4RaiTfnnWoVREX6j4nmf-bmLjIWKje1wZvy_nFE"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
