@@ -20,7 +20,7 @@ timezone: Europe/London
 
 title: Not A Bucket # the main title
 
-tagline: Not the usual container of info! # it will display as the sub-title
+tagline: Sys Admin waste bin! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Tech blog, from the prospective of a TechOps Engineer
@@ -80,7 +80,7 @@ theme_mode: dark
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://media.licdn.com/dms/image/C4E03AQEvdxqsKgqA-Q/profile-displayphoto-shrink_400_400/0/1652980587150?e=1688601600&v=beta&t=ZTOY4RaiTfnnWoVREX6j4nmf-bmLjIWKje1wZvy_nFE"
+avatar: "assets/img/favicons/logo.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
